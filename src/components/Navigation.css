@@ -1,0 +1,25 @@
+aside{
+    height: 100%;
+    width: 223px;
+
+}
+
+
+.statIcon{
+    width: 21px;
+    height: auto;
+}
+
+.dashBtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 180px;
+    height: 50px;
+    background: none;
+    border: none;
+    gap: 0.5rem;
+    margin-top: 2rem;
+}
+
+
